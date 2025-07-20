@@ -47,7 +47,7 @@ By default, the LMS comes with an admin account. Use the following credentials t
  Clone the project 
 
 ```bash
-git@github.com:Princegupta101/Larning-Management-System.git
+https://github.com/arpit58/immersionWork2.git
 ```
 
 ### Setup instruction  for Frontend
